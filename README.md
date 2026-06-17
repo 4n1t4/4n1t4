@@ -40,6 +40,8 @@ También soy entusiasta de la docencia fui ayudante y coach de proyectos en la u
 
 [![Skills](https://skillicons.dev/icons?i=docker,aws,azure,git,github,vscode,notion,jira)](https://skillicons.dev)
 
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+
 ### IA & Plataformas
 
 [![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
